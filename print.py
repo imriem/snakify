@@ -1,0 +1,2 @@
+print("my")
+print("mine")
